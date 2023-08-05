@@ -5,9 +5,14 @@ You have been tasked with creating a model to predict the probability of events 
 Dataset
 
 Weather conditions-This includes attributes such as temperature, humidity, wind speed, precipitation, etc.
+
 Latitude/Longitude-The geographic coordinates or region where the event occurred.
+
 Timestamp-The date and time of the event.
+
 Part of Day-Morning, Afternoon, Evening, or Night
+
 Population Classification-Suburban, Rural, or Urban
+
 Event Occurrence-Binary variable indicating whether an event occurred (1) or not (0).
 
